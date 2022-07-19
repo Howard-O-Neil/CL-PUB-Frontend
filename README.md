@@ -1,1 +1,1 @@
-# CL-PUB-Frontend
+# Demo for CL-PUB system
